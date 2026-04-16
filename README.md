@@ -1,6 +1,6 @@
 # Hi, I'm Mathabo Mthethwa 👋
 
-I am a Grade 12 learner from Johannesburg, South Africa applying Data Science, IoT, and Renewable Energy to solve real-world problems before university.
+I am a  Data Scientist, and did IoT, and Renewable Energy to solve real-world problems before university.
 
 ## 🔋 Smart School IoT & Solar Energy Project
 Data Science Lead for a system that monitors and controls school electrical devices using smart switches, solar integration, and data analysis to improve energy efficiency.
